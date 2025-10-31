@@ -1,0 +1,5 @@
+{
+  "name": "Potato Play - Multiplayer Gaming",
+  "description": "A web-based multiplayer gaming platform where a host screen runs games and players join using their phones as controllers, inspired by AirConsole. This initial version features a classic Pong game and demonstrates real-time, local multiplayer gameplay.",
+  "requestFramePermissions": []
+}
